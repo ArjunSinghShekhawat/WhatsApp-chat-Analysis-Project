@@ -1,0 +1,249 @@
+[ 2024-05-16 16:56:43,315] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 16:56:45,399] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 16:56:45,445] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 16:56:45,534] 39 root - INFO - Successfully Find All Stats total_messages 433 total_words 1219 total_media_messages 26 links 3 
+[ 2024-05-16 16:56:45,538] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 16:56:45,550] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 16:56:45,676] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:45,696] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:46,159] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:46,163] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:46,496] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 16:56:46,504] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 16:56:47,555] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 16:56:47,555] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 16:56:47,591] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:47,594] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:47,933] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 16:56:47,933] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 16:56:47,966] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:47,967] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:56:48,248] 53 root - INFO - I am inside most busy person method :
+[ 2024-05-16 16:56:48,253] 61 root - INFO - Successfully fetch the all busy person on whatsapp chat Family                247
+Karan                 184
+group notification      2
+Name: Users, dtype: int64
+[ 2024-05-16 16:56:49,519] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 16:56:50,447] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 16:56:51,084] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 16:56:51,127] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 16:56:51,390] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 16:56:51,393] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 16:56:51,770] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 16:56:51,815] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
+[ 2024-05-16 16:58:31,049] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 16:58:32,009] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 16:58:32,058] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 16:58:32,149] 39 root - INFO - Successfully Find All Stats total_messages 433 total_words 1219 total_media_messages 26 links 3 
+[ 2024-05-16 16:58:32,153] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 16:58:32,166] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 16:58:32,189] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:32,193] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:32,561] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:32,564] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:32,873] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 16:58:32,879] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 16:58:33,941] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 16:58:33,942] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 16:58:33,984] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:33,985] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:34,323] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 16:58:34,323] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 16:58:34,353] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:34,355] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 16:58:34,638] 53 root - INFO - I am inside most busy person method :
+[ 2024-05-16 16:58:34,641] 61 root - INFO - Successfully fetch the all busy person on whatsapp chat Family                247
+Karan                 184
+group notification      2
+Name: Users, dtype: int64
+[ 2024-05-16 16:58:35,928] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 16:58:36,587] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 16:58:37,212] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 16:58:37,235] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 16:58:37,487] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 16:58:37,491] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 16:58:37,863] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 16:58:37,881] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
+[ 2024-05-16 17:00:05,853] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:00:07,013] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:00:07,056] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 17:00:07,145] 39 root - INFO - Successfully Find All Stats total_messages 433 total_words 1219 total_media_messages 26 links 3 
+[ 2024-05-16 17:00:07,149] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 17:00:07,157] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 17:00:07,181] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:07,184] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:07,550] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:07,553] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:07,851] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 17:00:07,857] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 17:00:08,859] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 17:00:08,859] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 17:00:08,894] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:08,897] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:09,219] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 17:00:09,219] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 17:00:09,255] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:09,258] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:09,543] 53 root - INFO - I am inside most busy person method :
+[ 2024-05-16 17:00:09,550] 61 root - INFO - Successfully fetch the all busy person on whatsapp chat Family                247
+Karan                 184
+group notification      2
+Name: Users, dtype: int64
+[ 2024-05-16 17:00:10,823] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 17:00:11,540] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 17:00:12,206] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 17:00:12,230] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 17:00:12,708] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 17:00:12,711] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 17:00:13,068] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 17:00:13,088] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
+[ 2024-05-16 17:00:29,725] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:00:30,678] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:00:30,758] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 17:00:30,883] 39 root - INFO - Successfully Find All Stats total_messages 169 total_words 1109 total_media_messages 97 links 12 
+[ 2024-05-16 17:00:30,889] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 17:00:30,902] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 17:00:30,937] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:30,942] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:31,329] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:31,332] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:31,636] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 17:00:31,645] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 17:00:32,700] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 17:00:32,701] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 17:00:32,733] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:32,737] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:33,053] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 17:00:33,053] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 17:00:33,092] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:33,097] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:33,395] 53 root - INFO - I am inside most busy person method :
+[ 2024-05-16 17:00:33,399] 61 root - INFO - Successfully fetch the all busy person on whatsapp chat Kiran Madam Mentor    49
++91 90014 89777       38
+Toofan Sir            32
++91 92639 74520       13
+group notification    11
+Name: Users, dtype: int64
+[ 2024-05-16 17:00:35,289] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 17:00:36,006] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 17:00:36,664] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 17:00:36,684] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 17:00:37,194] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 17:00:37,197] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 17:00:37,543] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 17:00:37,563] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
+[ 2024-05-16 17:00:46,265] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:00:47,102] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:00:47,196] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 17:00:47,201] 39 root - INFO - Successfully Find All Stats total_messages 2 total_words 9 total_media_messages 1 links 0 
+[ 2024-05-16 17:00:47,215] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 17:00:47,231] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 17:00:47,264] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:47,267] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:47,575] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:47,577] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:47,827] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 17:00:47,834] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 17:00:48,645] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 17:00:48,647] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 17:00:48,681] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:48,683] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:48,942] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 17:00:48,944] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 17:00:48,976] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:48,979] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:00:49,230] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 17:00:49,479] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 17:00:49,966] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 17:00:49,974] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 17:00:50,305] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 17:00:50,311] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 17:01:13,734] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:01:14,925] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:01:14,981] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 17:01:14,991] 39 root - INFO - Successfully Find All Stats total_messages 32 total_words 324 total_media_messages 17 links 3 
+[ 2024-05-16 17:01:14,993] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 17:01:14,998] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 17:01:15,010] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:15,013] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:15,157] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:15,158] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:15,279] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 17:01:15,283] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 17:01:15,787] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 17:01:15,789] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 17:01:15,837] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:15,840] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:16,180] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 17:01:16,183] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 17:01:16,221] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:16,224] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:01:16,505] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 17:01:17,071] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 17:01:17,665] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 17:01:17,676] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 17:01:18,217] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 17:01:18,221] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 17:01:18,584] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 17:01:18,606] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
+[ 2024-05-16 17:02:30,904] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:02:31,895] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:02:31,940] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 17:02:32,026] 39 root - INFO - Successfully Find All Stats total_messages 399 total_words 1138 total_media_messages 10 links 1 
+[ 2024-05-16 17:02:32,030] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 17:02:32,042] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 17:02:32,074] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:32,077] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:32,419] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:32,422] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:32,680] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 17:02:32,690] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 17:02:33,756] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 17:02:33,756] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 17:02:33,796] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:33,798] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:34,108] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 17:02:34,109] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 17:02:34,143] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:34,146] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:34,402] 53 root - INFO - I am inside most busy person method :
+[ 2024-05-16 17:02:34,408] 61 root - INFO - Successfully fetch the all busy person on whatsapp chat Mamta Malsisar        211
+Family                187
+group notification      1
+Name: Users, dtype: int64
+[ 2024-05-16 17:02:35,739] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 17:02:36,641] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 17:02:37,278] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 17:02:37,299] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 17:02:37,744] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 17:02:37,746] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 17:02:38,133] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 17:02:38,153] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
+[ 2024-05-16 17:02:58,188] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:02:58,798] 10 root - INFO - I am inside preprocessor method
+[ 2024-05-16 17:02:58,848] 19 root - INFO - I am inside fetch stats method :
+[ 2024-05-16 17:02:58,894] 39 root - INFO - Successfully Find All Stats total_messages 187 total_words 660 total_media_messages 6 links 0 
+[ 2024-05-16 17:02:58,898] 202 root - INFO - I im inside monthly timeline Method :
+[ 2024-05-16 17:02:58,913] 216 root - INFO - Successfully find monthly timeline on whatsapp chat
+[ 2024-05-16 17:02:58,957] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:58,959] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:59,298] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:59,300] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:02:59,580] 229 root - INFO - I im inside daily timeline  Method :
+[ 2024-05-16 17:02:59,589] 237 root - INFO - Successfully find daily timeline on whatsapp chat
+[ 2024-05-16 17:03:00,607] 251 root - INFO - I im inside weekly activity map Method :
+[ 2024-05-16 17:03:00,609] 257 root - INFO - Successfully find weekly activity on whatsapp chat
+[ 2024-05-16 17:03:00,645] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:03:00,647] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:03:00,967] 269 root - INFO - I im inside monthly activity map Method :
+[ 2024-05-16 17:03:00,970] 275 root - INFO - Successfully find monthly activity on whatsapp chat
+[ 2024-05-16 17:03:01,002] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:03:01,007] 234 matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[ 2024-05-16 17:03:01,270] 73 root - INFO - I im inside Create Word Cloud Method :
+[ 2024-05-16 17:03:01,983] 98 root - INFO - Successfully find the word cloud :
+[ 2024-05-16 17:03:02,589] 112 root - INFO - I im inside most common word Method :
+[ 2024-05-16 17:03:02,607] 148 root - INFO - Successfully find most common words used in whatsapp chat
+[ 2024-05-16 17:03:03,098] 163 root - INFO - I im inside most common emoji Method :
+[ 2024-05-16 17:03:03,102] 188 root - INFO - Successfully find all most common emoji used in whatsapp chat
+[ 2024-05-16 17:03:03,439] 288 root - INFO - I im inside  activity heatmap Method :
+[ 2024-05-16 17:03:03,457] 296 root - INFO - Successfully find  activity heatmap on whatsapp chat
