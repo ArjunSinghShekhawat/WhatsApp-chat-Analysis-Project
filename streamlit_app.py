@@ -190,7 +190,7 @@ if uploaded_file is not None:
             fig,ax = plt.subplots()
             st.markdown("<h3 class='title'>Most Busy Day</h3>", unsafe_allow_html=True)
             ax.bar(busy_day.index,busy_day.values,color='skyblue')
-            ax.set_xticklabels(busy_day.index, rotation='45')
+            ax.set_xticklabels(busy_day.index, rotation='vertical')
             st.pyplot(fig)
 
         with col2:
@@ -198,7 +198,7 @@ if uploaded_file is not None:
             fig,ax = plt.subplots()
             st.markdown("<h3 class='title'>Most Busy Month</h3>", unsafe_allow_html=True)
             ax.bar(busy_month.index,busy_month.values,color="green")
-            ax.set_xticklabels(busy_month.index, rotation='45')
+            ax.set_xticklabels(busy_month.index, rotation='vertical')
             st.pyplot(fig)
 
         #Find out the busy person in whatsapp
