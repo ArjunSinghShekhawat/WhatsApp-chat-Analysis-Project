@@ -76,7 +76,7 @@ def create_word_cloud(selected_user,df):
             df  =df[df['Users']==selected_user]
     
         # Read stop words into a set
-        with open(r"E:\Chat Analysis Project\notebooks\stop_hinglish.txt", 'r') as f:
+        with open(r"notebooks\stop_hinglish.txt", 'r') as f:
             stop_words = set(f.read().split())
     
         # Filter out group notifications and media omitted messages
